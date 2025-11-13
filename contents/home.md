@@ -1,8 +1,8 @@
 
 
-[![lihau2571](https://img.shields.io/badge/lihua2571-github-blue?logo=github)](https://github.com/lihua2571)
+[![lihua2571](https://img.shields.io/badge/lihua2571-github-blue?logo=github)](https://github.com/lihua2571)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+I'm a first-year computer science freshmen at Shaanxi Normal University(SNNU).
 
 #### Contact
 
