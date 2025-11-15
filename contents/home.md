@@ -6,12 +6,14 @@ I'm a first-year computer science freshmen at Shaanxi Normal University(SNNU).
 
 #### Contact
 
-Email: 2476732080@qq.com
+Email: 2476732080@qq.com\
+WeiChat:hang31415927\
 
 #### Education
-M.E., Computer Science , ShaanXi Normal University, 2025 freshmen.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
 
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Senior high school:Lvye senior high school\
+University:Shaanxi Normal University\
+
+#### Hobby
+Running,table tennis.
 
