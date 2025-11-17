@@ -6,7 +6,7 @@ I'm a first-year computer science freshmen at Shaanxi Normal University(SNNU).
 
 #### Contact
 
-Email: 2476732080@qq.com\
+Email: 2476732080@qq.com
 
 
 #### Education
